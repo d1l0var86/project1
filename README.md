@@ -18,6 +18,7 @@ Git basics
  - * 26  history | tail
  - * 27  history | tail >> README.md 
 -
+I am adding the line from github
 
    1. git basics
    2. git hub exercises
